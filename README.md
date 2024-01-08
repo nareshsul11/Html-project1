@@ -10,8 +10,11 @@ Task Description-
 
 Chalenges Faced-Layout:
                      1.Creating a well-structured layout is one of the most important aspects of web design.aligning them correctly, and making them responsive to different screen sizes.
+                     
                      2.Styling: CSS is used to style HTML elements, but it can be challenging to get the desired look and feel. choose the right colors, fonts, and sizes for their website.
+                     
                      3.Responsive design: With the increasing use of mobile devices, it’s essential to create websites that are responsive and adapt to different screen sizes. to create a responsive design.
+                     
 
 Learning-
       HTML- 1.To center text in HTML, you can use the text-align property.
